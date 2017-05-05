@@ -1,13 +1,13 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 JS-Basics
-=========
+=========aasdfdfdfdfdfdffff
 
 ## Objective
 Better understand Javascript fundamentals by completing a series of activities
 
 ## Directions
-Fork this repo, clone your fork, then open fns-scopes.js and complete all the activities to make the spec runner pass it's tests (open the SpecRunner.html file in your browser). 
+Fork this repo, clone your fork, then open fns-scopes.js and complete all the activities to make the spec runner pass it's tests (open the SpecRunner.html file in your browser).
 *COMMIT AND PUSH YOUR CODE OFTEN!*
 
 ### Debugging/Visualization tools :
